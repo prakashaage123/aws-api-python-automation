@@ -73,7 +73,4 @@ Notes:
 - Always regenerate lambda.zip after changing lambda_function.py or dependencies
 - Use IAM roles securely (avoid hardcoded secrets)
 
-Need More?
-- Terraform or CDK deployment
-- GitHub Actions CI/CD
-- Docker packaging
+
